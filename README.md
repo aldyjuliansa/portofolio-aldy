@@ -4,20 +4,31 @@ Ini adalah hasil coodingan pertama saya, yakni Website Portofolio saya. Website 
 # Teknologi yang digunakan:
 
 > Visual Studio Code
+
 > Google Chrome
+
 > Youtube
+
 > WhatsApp
+
 > Ibm watsonx (chatbot model: granite-3-8B-instruct & llama-4-maverick) link: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
 
 # Features
 
 > Home
+
 > Abaout
+
 > Education
+
 > Skills
+
 > Contact
+
 > Hire me
+
 > Let's talk
+
 > My social media
 
 # Setup Instruction
@@ -28,4 +39,5 @@ Ini adalah hasil coodingan pertama saya, yakni Website Portofolio saya. Website 
 # AI Support Explanation
 
 > Tujuan penggunaan chatbot AI dalam projek ini, yakni untuk memperkuat serta meningkatkan kecepatan struktur kode/rangkaian kode yang ditulis.
+
 > Berguna dalam membantu memecahkan masalah, yakni dengan memberikan rekomendasi atau alternatif kode beserta langkah-langkah yang perlu diselesaikan agar sebuah kode dapat berjalan dengan lancar. 
