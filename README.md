@@ -17,7 +17,7 @@ Ini adalah hasil coodingan pertama saya, yakni Website Portofolio saya. Website 
 
 > Home
 
-> Abaout
+> About
 
 > Education
 
