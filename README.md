@@ -7,7 +7,7 @@ Ini adalah hasil coodingan pertama saya, yakni Website Portofolio saya. Website 
 > Google Chrome
 > Youtube
 > WhatsApp
-> Ibm watsonx (chatbot model: granite-3-8B-instruct & llama-4-maverick)
+> Ibm watsonx (chatbot model: granite-3-8B-instruct & llama-4-maverick) link: https://eu-gb.dataplatform.cloud.ibm.com/wx/home?context=wx
 
 # Features
 
@@ -16,6 +16,9 @@ Ini adalah hasil coodingan pertama saya, yakni Website Portofolio saya. Website 
 > Education
 > Skills
 > Contact
+> Hire me
+> Let's talk
+> My social media
 
 # Setup Instruction
 
